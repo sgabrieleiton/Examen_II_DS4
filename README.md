@@ -60,7 +60,7 @@ en la pestaña **Perfil** (debe verse *Plataforma: android*), y complete:
 - Carné: C33383
 - appId: cr.ac.ucr.if0009.c33383
 - Versión de Node / Ionic CLI / Capacitor (`node -v`, `ionic -v`, `npx cap -V`): v24.20.0 / 7.2.1 / 8.6.2
-- ¿Se generó el APK de depuración? (sí/no): no
+- ¿Se generó el APK de depuración? (sí/no): si
 
 ## Reglas
 

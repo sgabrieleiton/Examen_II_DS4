@@ -1,15 +1,8 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
-/**
- * TODO [M8] Identidad de SU app (4 pts):
- *   appId   → cr.ac.ucr.if0009.<su carné en minúscula>      ej. cr.ac.ucr.if0009.c12345
- *   appName → "Préstamos <su primer apellido>"
- * Ojo: la plataforma android/ ya existe. Revise qué archivos de android/ también hay que cambiar
- * y luego ejecute  ionic build  →  npx cap sync  →  npx cap run android.
- */
 const config: CapacitorConfig = {
-  appId: 'cr.ac.ucr.if0009.examen',
-  appName: 'Préstamos Móvil',
+  appId: 'cr.ac.ucr.if0009.c33383',
+  appName: 'Préstamos González',
   webDir: 'dist',
   android: {
     // Solo para el examen: la API local corre en http://10.0.2.2.

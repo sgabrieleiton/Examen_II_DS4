@@ -4,7 +4,7 @@ android {
     namespace = "cr.ac.ucr.if0009.examen"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "cr.ac.ucr.if0009.examen"
+        applicationId "cr.ac.ucr.if0009.c33383"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
